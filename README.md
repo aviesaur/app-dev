@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# Parasite (2019)
+Parasite is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who co-wrote the movie with Han Jin-won. The film, starring Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, Park Myung-hoon, and Lee Jung-eun, follows a poor family who infiltrate the life of a wealthy family. 
+
+The movie Parasite discusses class conflict, social inequality, and wealth disparity. Film critics and Bong Joon-ho himself have considered the film a reflection of late-stage capitalism, and some have associated it with the term "Hell Joseon", a satirical phrase that posits living in hell would be akin to living in modern South Korea. This term came about due to high rates of youth unemployment, the intense demands of pursuing higher education, the crisis of home affordability, and the increasing socioeconomic gap between the wealthy and poor.
